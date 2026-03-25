@@ -14,4 +14,4 @@ This project analyzes retail sales data using Power BI, SQL, and Excel.
 - High discounts reduce profitability
 
 ## 📸 Dashboard Preview
-<img width="1122" height="636" alt="Screenshot 2026-03-25 120943" src="https://github.com/user-attachments/assets/ea848b43-8174-4a1f-a433-45dc09e0cfc5" />
+<img width="1122" height="632" alt="dashboard" src="https://github.com/user-attachments/assets/2c57edc0-85ca-4294-83c4-ee6cd9efd282" />
